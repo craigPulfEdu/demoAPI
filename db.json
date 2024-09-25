@@ -1,6 +1,5 @@
 {
   "car_database": [
-[
     { "id": 1, "car_make": "Toyota", "car_model": "Camry", "car_year": 2020, "price": 24000 },
     { "id": 2, "car_make": "Honda", "car_model": "Civic", "car_year": 2021, "price": 22000 },
     { "id": 3, "car_make": "Ford", "car_model": "Mustang", "car_year": 2019, "price": 27000 },
@@ -31,8 +30,5 @@
     { "id": 28, "car_make": "Hyundai", "car_model": "Tucson", "car_year": 2022, "price": 27000 },
     { "id": 29, "car_make": "Kia", "car_model": "Sportage", "car_year": 2020, "price": 25000 },
     { "id": 30, "car_make": "Subaru", "car_model": "Forester", "car_year": 2021, "price": 29500 }
-]
-
-  ],
-
+  ]
 }
